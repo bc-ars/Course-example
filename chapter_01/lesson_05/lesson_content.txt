@@ -1,10 +1,10 @@
-# ✨ En résumé
+# ✨ In summary
 
 ------------------------------
 
 <p>&nbsp;</p>
 
-### Une méthode de gestion de projet
+### A project management method
 
 -----------------------------------
 
@@ -12,19 +12,19 @@
 
   
 
-On l'a vu, le BIM n'est pas un logiciel et  il serait réducteur de le définir simplement comme une maquette numérique. Des centaines de logiciels BIM existent à travers le monde, répondant chacun aux besoins d'une ou plusieurs disciplines.
+As we have seen, **BIM is not software** and it would be reductive to define it simply as a digital model. Hundreds of BIM software exist around the world, each meeting the needs of one or more disciplines.
 
-Le BIM relève de la stratégie et du management de projet des acteurs, il est de leur ressort de se l'approprier. Cette stratégie et tout le processus qui va en découler repose sur une documentation BIM plus ou moins détaillé, comme nous le verrons par la suite.
-
-<p>&nbsp;</p>
+**BIM is part of the actors' strategy and project management**, it is their responsibility to make it their own. This strategy and the entire process that will result from it is based on more or less detailed BIM documentation, as we will see below.
 
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
 
 
 
-### Un accélérateur pour la collaboration et la gestion des opérations 
+
+### An accelerator for collaboration and operations management
 
 -----------------------------------
 
@@ -32,13 +32,13 @@ Le BIM relève de la stratégie et du management de projet des acteurs, il est d
 
 <p>&nbsp;</p>
 
-En fonction de l'échelle et de l'utilité, le BIM (Building Intelligence Modeling) se mue ou s'additionne au CIM (City Intelligence Modeling) et au LIM (Lanscape Intelligence Modeling). Autant de concepts qui vont petit à petit faire basculer les villes les plus innovantes vers la Smart City.
+Depending on the scale and utility, **BIM** (Building Intelligence Modeling) can be transformed or added to **CIM** (City Intelligence Modeling) and **LIM** (Lanscape Intelligence Modeling). So many concepts that will gradually shift the most innovative cities towards the **Smart City**.
 
 ![smart_city](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/smart_city.gif)
 
 
 
-Nous verrons bientôt comment différents acteurs peuvent collaborer plus facilement ensemble dans le cycle d'un projet.
+We will soon see how different actors can more easily collaborate together in the cycle of a project.
 
 <p>&nbsp;</p>
 
@@ -50,7 +50,7 @@ Nous verrons bientôt comment différents acteurs peuvent collaborer plus facile
 
 
 
-### Une nouvelle manière de représenter le réel
+### A new way of representing reality
 
 -----------------------------------
 
@@ -58,7 +58,7 @@ Nous verrons bientôt comment différents acteurs peuvent collaborer plus facile
 
 
 
-La maquette numérique est la partie la plus tangible du BIM. On est passé du dessin manuel, à la DAO 2D puis CAO 3D pour arriver au BIM: une modélisation paramètrique qui va lier des représentations géomlétriques aux données à travers les objets BIM. L'outil devient de plus en plus une aide pour la conception et la mise en oeuvre d'un bâtiment.  
+The digital model is the most tangible part of BIM. We went from manual drawing, to 2D CAD then 3D CAD to arrive at **BIM: a parametric modeling** which will link geometrical representations to data through BIM objects. The tool is increasingly becoming an aid for the design and implementation of a building. 
 
 <iframe src="https://xeokit.github.io/xeokit-sdk/examples/#BIMOffline_XKT_Schependomlaan" style="
     width: 100%;
@@ -67,7 +67,7 @@ La maquette numérique est la partie la plus tangible du BIM. On est passé du d
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-*À vous de maintenant manipuler cette maquette de la visionneuse xeokit et vous rendre compte des possibilités offertes ! La vidéo peut vous aider à réaliser des manipulations simples*. ➡️
+*Now it's up to you to handle this model of the xeokit viewer and realize the possibilities offered! Video can help you perform simple manipulations* . ➡️
 
 <p>&nbsp;</p>
 

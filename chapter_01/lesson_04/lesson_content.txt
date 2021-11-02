@@ -1,70 +1,70 @@
-# 📶 Les Niveaux de Maturités BIM  
+# 📶 BIM Level of maturity 
 
 ------------------------------
 
 
 
-L'intérêt d'avoir une maquette numérique et d'utiliser la technologie BIM est de pouvoir collaborer entre entreprises avec des équipes internes et externes. **En 2008, au Royaume-Uni, Mark Bew et Mervyn Richards** élaboré une schéma permettant de classifier le niveau de maturité d'une organisation.
+The advantage of having a digital model and using BIM technology is to be able to collaborate between companies with internal and external teams. **In 2008, in the United Kingdom, Mark Bew and Mervyn Richards** developed a scheme for classifying the level of maturity of an organization.
 
 ![niveau_maturite](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau_maturite.jpeg)
 
 
 
-## Le Niveau 0: Pré-BIM
+## Level 0: Pre-BIM
 
 -------------------------------
 
 
 
-La majorité des agences d'architecture se trouvent au niveau 0. C'est la **méthode traditionnelle de travail** avec un apport minime du numérique. Les dessins sont d'abord réalisés sur papier avant d’être retranscris grâce à la CAO en 2D. On transmets ces différents fichiers en .dwg, .pdf... Chaque agence peut avoir sa propre forme de représentation. La collaboration n'est pas simple puisqu'il faut à chaque fois vérifier la cohérence générale du projet, et il est très difficile de standardiser les échanges.
+The majority of architectural firms are at level 0. This is the **traditional method of working** with minimal digital input. The drawings are first made on paper before being transcribed using 2D CAD. These different files are transmitted in .dwg, .pdf ... Each agency can have its own form of representation. Collaboration is not easy since it is necessary each time to check the general coherence of the project, and it is very difficult to standardize the exchanges.
 
-![niveau0](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau0.jpeg)
-
-<p>&nbsp;</p>
+![niveau0](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/level0.png)
 
 <p>&nbsp;</p>
 
-## Le Niveau 1: Modélisation orientée objet
+<p>&nbsp;</p>
+
+## Level 1: Object-oriented modeling
 
 -------------------------------
 
-On atteint un premier véritable niveau de BIM avec le niveau de maturité 1. Un acteur (en général l'architecte, crée une maquette numérique à l'aide d'un logiciel BIM. On commence d'abord avec la géométrie 3D du projet, qui s'enrichit petit à petit d'informations. On utilise le modèle 3D pour des besoins de visualisation mais pas pour échanger ces données utilement avec les autres corps de métiers. **La collaboration est encore très faibles** avec des échanges au format .dwg ou .pdf. On a parfois une centralisation des données sur une GED (Gestion Electronique des Documents) ou une armoire à plans. Il peut y avoir quelques échanges standardisés avec par exemple une charte graphique.
+We reach a first real level of BIM with maturity level 1. An actor (usually the architect), creates a digital model using BIM software. We start first with the 3D geometry of the project, which is gradually enriched with information.The 3D model is used for visualization needs but not to exchange these data usefully with other trades.Collaboration **is still very weak** with exchanges in .dwg or. pdf. There is sometimes a centralization of data on an EDM (Electronic Document Management) or a drawing file. There may be some standardized exchanges with, for example, a graphic charter.
 
 
 
-![niveau1](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau1.jpeg)
+![level1](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/level1.png)
 
 
 
-## Le Niveau 2: Collaboration orientée objet
-
--------------------------------
-
-**Chaque discipline conçoit une maquette numérique pour son lot et son usage**. Elles permettent chacune **l'interopérabilité**. Les acteurs peuvent tester, comparer, et améliorer leurs maquettes grâce aux autres modèles issus des autres corps de métier: on parle d'échanges bidirectionnels. Les modèles contiennent des informations détaillés qui interagissent avec des paramètres de la maquette et sont donc intelligents. **On a maintenant une vraie collaboration** car ces informations sont échangées avec l’entièreté des modèles (aux formats natifs ou IFC) et non plus sous la forme de livrables ne permettant que la visualisation brute (type pdf). Grâce à des outils, on peut comparer différentes versions d'un fichier, détecter des clashs entre modèles et même notifier les utilisateurs de changement instantanément. La **mise à jour de chacun des modèles se fait de manière asynchrone**.
-
-![niveau2](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau2.jpeg)
-
-
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-## Le Niveau 3: Collaboration orientée objet
+## Level 2: Object-oriented collaboration
 
 -------------------------------
 
-C'est le maximum de maturité BIM. On parle **d'iBIM ou de BIM intégré**. C'est un niveau qui est encore très peu atteint et reste parfois à l'état de théorie. C'est un **processus entièrement intégré et collaboratif**, accessible sur le cloud via des plateformes collaboratives. Tous les acteurs se connectent en réseau pour alimenter ensemble un modèle unique. Les échanges deviennent presque inexistants puisque tout se fait en temps réel. La hierarchie des acteurs permet de restreindre l'accès à différentes parties de la maquette et par exemple au pouvoir d'annoter. **Il y a une traçabilité totale de tous les évènements (Product Lifecycle Management)**.
+**Each discipline designs a digital model for its batch and its use** . They each allow **interoperability** . Actors can test, compare, and improve their models using other models from other profession: we talk about two-way exchanges. Models contain detailed information which interacts with parameters of the model and are therefore intelligent. **We now have a real collaboration** because this information is exchanged with all the models (in native or IFC formats) and no longer in the form of deliverables allowing only raw visualization (pdf type). Thanks to digital tools, we can compare different versions of a file, detect clashes between models and even notify users of changes instantly. The **update of each of the models is done asynchronously**.
 
-On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits entre les logiciels BIM, problèmes de serveurs (la blockchain pourra-t-elle régler le problème ? ), format IFC....
+![level2](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/level2.png)
 
-![niveau3](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau3.jpeg)
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+## Level 3: Object-oriented collaboration
+
+-------------------------------
+
+This is the maximum BIM maturity level. We talk **about iBIM or integrated BIM** . It is a level which is still very little reached and sometimes remains at the state of theory. It is a **fully integrated and collaborative process**, accessible in the cloud via collaborative platforms. All the actors connect to a network to jointly power a single model. The exchanges become almost non-existent since everything is done in real time. The hierarchy of actors makes it possible to restrict access to different parts of the model and for example to the power to annotate. **There is full traceability of all events (Product Lifecycle Management)** .
+
+We are still far from this level of maturity, for several reasons: conflicts between BIM software, server problems (can the blockchain solve the problem?), IFC format, etc.
+
+![level3](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/level3.png)
 
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
-### Les Niveaux de maturités BIM
+### BIM maturity levels
 
 -------------------------------
 
@@ -76,9 +76,9 @@ On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits e
 
 
 
-Avec ces niveaux de maturités, on comprend bien **l’importance de la collaboration** au sein d’une démarche BIM et que, sans elle, les promesses du BIM ne pourront être atteintes. Le passage d’un niveau à l’autre n’est pas sans efforts mais nécessaire. Les différents niveaux sont illustrés par la société Arcadis ci-dessus pour une meilleure compréhension.
+With these levels of maturity, we understand **the importance of collaboration** within a BIM process and that, without it, the promises of BIM cannot be achieved. The passage from one level to another is not without effort but necessary. The different levels are illustrated by the company Arcadis above for a better understanding.
 
-***N'hésitez pas à consulter cette vidéo de Tekla, un éditeur de logiciels BIM, qui résume ces niveaux de maturité. ➡️***
+***Check out this video from Tekla, a BIM software publisher, which summarizes these maturity levels. ➡️***
 
 <p>&nbsp;</p>
 

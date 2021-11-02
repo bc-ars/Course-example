@@ -4,7 +4,7 @@
 
 
 
-Selon l'échelle et l'utilité, le numérique s'impose petit à petit dans la conception des villes, bâtiments et de leurs rapports à la nature. Découvrons ensemble comment le digital repense toutes notre manière de prévoir les changments climatiques, démographiques et d'usage.
+Depending on the scale and utility, digital technology is gradually establishing itself in the design of cities, buildings and their relationship to nature. Let's discover together how digital is rethinking all our way of predicting climatic, demographic and usage changes.
 
 
 
@@ -14,72 +14,72 @@ Selon l'échelle et l'utilité, le numérique s'impose petit à petit dans la co
 
 
 
-Le BIM – communément Building Information Modeling – est un processus intelligent basé sur un modèle 3D qui offre aux professionnels de de l’architecture, de l’ingénierie et de la construction les informations et les outils nécessaires pour planifier, concevoir, construire et gérer plus efficacement des bâtiments et des infrastructures. Reprenons dans le détail l'acronyme, il peut avoir plusieurs significations:
+BIM - commonly Building Information Modeling - is an intelligent 3D model-based process that provides architectural, engineering and construction professionals with the information and tools needed to plan, design, build and manage more efficiently buildings and infrastructure. Let us take the acronym in detail, it can have several meanings:
+
+
 
 ![B_IM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/B_IM.jpeg)
 
-Le **B** fait référence à **Building** car ici c'est une technologie que l'on veut propre au **monde de la construction et de l'architecture**. Tous les objets présents dans une maquette BIM font donc référence à des matériaux issus du monde du BTP: mur, poteaux, dalles...
+The **B** refers to **Building** because here it is a technology that we want specific to the **world of construction and architecture** . All the objects in a BIM model therefore refer to materials from the construction industry: wall, posts, slabs, etc..
 
 
 
 ![BIM_](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_.jpeg)
 
-**M** peut revêtir différentes significations:
-
-- Building Information **Model**: C'est la maquette numérique du bâtiment. Il s'agit d'un ensemble de données décrivant un projet ou un bâtiment existant, en français c'est la Maquette Numérique du Bâtiment.
-- Building Information **Modeling**: C'est un processus de gestion et de création de données. Par processus on entend le fait que plusieurs intervenants vont pouvoir avoir accès aux mêmes informations au même moment.
-- Building Information **Management**: Il s'agit de l'organisation, la coordination et le contrôle nécessaire du processus qui va exploiter les données de la maquette numérique et permettre le partage des informations sur le cycle de vie d'un bâtiment.
+- **M** can have different meanings:
+  - Building Information **Model** : This is the digital model or mockup of the building. This is a set of data describing an existing project or building.
+  - Building Information **Modeling** : It is a process of managing and creating data. By process we mean the fact that several participants will be able to have access to the same information at the same time.
+  - Building Information **Management** : This is the organization, coordination and necessary control of the process that will use the data of the digital model and allow the sharing of information on the life cycle of a building.
 
  
 
 ![BI_M](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BI_M.jpeg)
 
-Le **I** est la lettre la plus importante de l'acronyme BIM.
+The **I** is the most important letter of the acronym BIM.
 
-**I** peut faire référence à **l'information**: Il va contenir toutes les informations indispensables sur le projet. Cette information est organisée (par une arborescence dans chacun des objets), cette information a un sens: elle correspond à une propriété propre ou partagée par plusieurs objets.
+**I** can refer to **information** : It will contain all the essential information about the project. This information is organized (by a tree structure in each of the objects), this information has a meaning: it corresponds to a specific property or a property shared by several objects.
 
-**I** peut aussi faire référence à **Intelligence**: L'information est utile et peut changer, par exemple lors que l'on change la hauteur d'un mur, la surface du mur change mais également l'élévation de la dalle qui lui est associé... **L'information peut aussi être générée au moyen d’algorithmes** qui vont calculer l'espacement entre plusieurs montants métalliques dans une façade complexe...
+**I** can also refer to **Intelligence** : The information is useful and can change, for example when we change the height of a wall, the surface of the wall changes but also the elevation of the slab associated with it... **The information can also be generated by means of algorithms** which for example will calculate the spacing between several metal studs in a complex facade ...
 
-En somme, on peut dire que le BIM est un **modèle de CAO 3D auquel on a associé une base de données**.
+In brief, we can say that BIM is a **3D CAD model to which we have associated a database**.
 
 ![BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM.gif)
 
 
 
-On peut retenir celle proposée par (Celnik & Lebegue, 2015), largement répandue en France : « Le BIM [pour Building Information Model, Modeling ou Management] est une **manière intégrée de travailler**, permettant une conception, une exécution et une gestion de bâtiments et de biens immobiliers elle aussi intégrées. **Ce n’est pas un outil, un logiciel, c’est un processus de travail et de collaboration** entre intervenants d’un projet de construction reposant sur des outils métiers particuliers qui permettent la conception et l’exploitation d’une maquette numérique préfigurant le bâtiment tel que construit et exploité (...) ».
+We can retain the one proposed by Celnik & Lebegue in 2015, widely used in France: “BIM [for Building Information Model, Modeling or Management] is an **integrated way of working** , allowing the design, execution and management of buildings also integrated. **It is not a tool, a software, it is a process of work and collaboration** between stakeholders of a construction project based on specific tools that allow the design and operation of a digital mockup prefiguring the building as constructed and operated (...) ”.
 
-**Le BIM est le partage d'informations fiables tout au long de la durée de vie** d'un bâtiment ou d'infrastructures, de leur conception jusqu'à leur démolition.
+**BIM is the sharing of reliable information throughout the lifespan** a building or infrastructure, from design to demolition.
 
 <p>&nbsp;</p>
 
-## Du 🏗️ BIM au 🏙️ CIM
+## From 🏗️ BIM to 🏙️ CIM
 
----------------------------------------
+------
 
+<p>&nbsp;</p>
 
-
-Jusque très récemment, le BIM était utilisait pour des bâtiments isolés. On arrive maintenant à l'associer à d'autres bâtiments et des quartiers pour créer des villes intelligentes: les Smart Cities. C'est une version élargit du BIM qui traite de la ville plus que le bâtiment. Nous avons atteint une stade technologique qui nous permet de traiter en même temps énormément d'informations: le niveau de pollution, le niveau d'hygrométrie, l'éclairage public, la voirie, les infrastructures publics: bus, vélib....
+Until very recently, BIM was used for isolated buildings. We are now able to associate it with other buildings and neighborhoods to create smart cities. It is an expanded version of BIM that deals with the city more than the building. We have reached a technological stage which allows us to process a great amount of information at the same time: the level of pollution, the level of humidity, public lighting, roads, public infrastructures: bus, bike-sharing services ...
 
 
 
 ![CIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/CIM.jpeg)
 
-*CIM de la ville de Monaco*
+*CIM of the city of Monaco*
 
+ 
+
+We can now **begin to simulate and predict the future of new neighborhoods before conception**.
 
 <p>&nbsp;</p>
 
-On peut maintenant **commencer à simuler et prédire le futur de nouveaux quartiers avant la conception**.
-
-<p>&nbsp;</p>
-
-### Le 🌳 LIM
+### 🌳 LIM
 
 ---------------------------
 
 
 
-Le **Landscape Information Modeling** va encore étendre la notion d'information et de représentation avec l'interaction avec des espaces naturels. On va se baser sur des données scientifiques et techniques qui vont **prendre en compte le vivant et son évolution dans les projets**. On peut commencer à simuler l'impact des éléments qui constituent le paysage comme les arbres: leur système racinaire, l'hygrométrie, leur croissance, la conseommation en eau... Tous les espaces extérieurs vont nous permettrent de mieux penser les espaces naturels et éviter par exemple des crues, glissement de terrain, des inondations... en prenant en compte les métadonnées des systèmes naturels.
+**Landscape Information Modeling** will further expand the concept of information and modeling with natural spaces interaction. We will be based on scientific and technical data that will **take into account living things and their evolution in projects** . We can start to simulate the impact of the elements that constitute the landscape such as trees: their root system, humidity, growth, water consumption ... All the outdoor spaces will allow us to better think natural spaces and avoid, for example, floods, landslides, floods ... by taking into account the metadata of natural systems.
 
 ![LIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/LIM.jpeg)
 
@@ -87,29 +87,29 @@ Le **Landscape Information Modeling** va encore étendre la notion d'information
 
 <p>&nbsp;</p>
 
-### **La** **Smart City** idéale:  🏗️ BIM + 🏙️ CIM + 🌳 LIM
+### **The** ideal **Smart City** : 🏗️ BIM + 🏙️ CIM + 🌳 LIM
 
---------------------------
+------
 
-<p>&nbsp;</p>
+ 
 
-Le BIM en accord avec le CIM et le LIM permettrait de **définir des maquettes à l’échelle d’un quartier ou même d’une ville** , tout en apportant l’ensemble des informations caractérisant la modélisation : que se soit un bâtiment ainsi que les sous-sols, les réseaux d’assainissement ainsi que l’ensemble des réseaux autres enterré ( électrique , Gaz , eau …), les espaces verts ainsi que le zone humide intégrer au projet, les sous sol existant (pollution , nappe , Sol types …) , les voiries ainsi que les espaces publics.
+BIM in agreement with CIM and LIM would make it possible to **define models at the scale of a district or even a city** , while providing all the information characterizing the modeling: a building and the basements, sewerage networks as well as all other underground networks (electricity, gas, water, etc.), green spaces and the wetland to integrate into the project, existing subsoil (pollution, water table, soil types …), roads and public spaces.
 
 <p>&nbsp;</p>
 
 ![siemens](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/siemens.gif)
 
-*La Smart City vue par Siemens*
+*The Smart City seen by Siemens*
 
-<p>&nbsp;</p>
+ 
 
-L'objectif n'est pas de demain connaître toutes les données d'une ville en temps réel, que ce soit la consommation d'eau au volume près de chaque habitant, détection de l'emplacement d'une fuite dans une canalisation souterraine... Les services municipaux seraient submergés d'informations qui les rendraient impossible à traiter.
+The goal of tomorrow is not to know all the data of a city in real time: the water consumption by volume of each inhabitant, detection of the location of a leak in an underground pipeline. .. Municipal services would be submerged with information that would make them impossible to process.
 
-Néanmoins, une Smart City raisonnée et pensée en amont par les pouvois publics sera un outil formidable pour l'évolution des villes et notre impact sur l'environnement. 
+Nevertheless, a reasoned Smart City thought upstream by public authorities will be a formidable tool for the development of cities and our impact on the environment.
 
-Le digital et son implémentation au travers du 🏗️ BIM, 🏙️ CIM & du 🌳 LIM sera l'outil indispensable dans cette évolution. 
+Digital and its implementation through 🏗️ BIM, 🏙️ CIM & 🌳 LIM will be the essential tool in this evolution.
 
-***La vidéo du CSTB ci-contre illustre un début d'usage du CIM dans un quartier de Bordeaux. ➡️***
+***The CSTB video opposite illustrates the beginning of the use of CIM in a district of Bordeaux. ➡️***
 
 <p>&nbsp;</p>
 

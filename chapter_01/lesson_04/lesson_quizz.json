@@ -1,31 +1,31 @@
 { "questions":
   [
     {
-      "content": "Le Niveau de maturité 0 permet de collaborer autour d'une maquette numérique",
-      "explanation": " C'est la **méthode traditionnelle de travail** avec un apport minime du numérique",
+      "content": "Level 0 of maturity allows to collaborate around a digital mock-up",
+      "explanation": " This is the traditional method of work, with a minimum contribution of digital",
       "answers": [
         {
-          "content": "Vrai",
+          "content": "True",
           "is_correct": "false"
         },
 
         {
-          "content": "Faux",
+          "content": "False",
           "is_correct": "true"
         }
       ]
     },
     {
-      "content": "Le Niveau 3 de maturité du BIM est utilisé massivement par les acteurs du BTP",
-      "explanation": "On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits entre les logiciels BIM, problèmes de serveurs (la blockchain pourra-t-elle régler le problème ? ), format IFC....",
+      "content": "BIM maturity level 3 is massively used by Construction actors",
+      "explanation": " We are still far from this level of maturity, for many reasons: conflicts between BIM softwares, hosting problems (can the blockchain solve this issue ?), IFC format...",
       "answers": [
         {
-          "content": "Vrai",
-          "is_correct": "true"
+          "content": "True",
+          "is_correct": "false"
         },
         {
-          "content": "Faux",
-          "is_correct": "false"
+          "content": "False",
+          "is_correct": "true"
         }
       ]
     }

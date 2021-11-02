@@ -1,8 +1,8 @@
 { "questions":
   [
     {
-      "content": "Quel est le premier logiciel de DAO ?",
-      "explanation": "Les prémices du BIM apparaissent en 1963 lorsque Sutherland propose le logiciel Sketchpad, précurseur de l’interface graphique et de la DAO.",
+      "content": "What was the first CAD Software ?",
+      "explanation": "The beginnings of BIM appeared in 1963 when Sutherland created Sketchpad software, a precursor of the graphical interface and CAD.",
       "answers": [
         {
           "content": "Revit",
@@ -23,23 +23,23 @@
       ]
     },
     {
-      "content": "Quels sont les avantages de la CAO 3D ",
+      "content": "What are the advantages of 3D CAD ? ",
       "explanation": "et certains se font beaucoup beaucoup d'argent",
       "answers": [
         {
-          "content": "On peut plus facilement communqiuer avec le projet qu'avec de la DAO 2D",
+          "content": "We can easier communicate on the project than in 2D CAD",
           "is_correct": "true"
         },
         {
-          "content": "La modélisation est paramétrique",
+          "content": "Modeling is parametric",
           "is_correct": "false"
         },
         {
-          "content": "On peut créer et imaginer différentes versions",
+          "content": "We can create and try imagine different versions",
           "is_correct": "true"
         },
         {
-          "content": "On a plusieurs dessins indépendants (plans, coupes, élévations et axonométries).",
+          "content": "We have several independant drawings (floor plans, elevations...)",
           "is_correct": "false"
         }
       ]

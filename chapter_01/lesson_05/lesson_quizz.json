@@ -1,31 +1,31 @@
 { "questions":
   [
     {
-      "content": "Le Niveau de maturité 0 permet de collaborer autour d'une maquette numérique",
-      "explanation": " C'est la **méthode traditionnelle de travail** avec un apport minime du numérique",
+      "content": "Used in a good way, BIM contribute to a liable sharing of the project information during all its life cycle",
+      "explanation": " the digital mock-up will be containing all the important information at each stage",
       "answers": [
         {
-          "content": "Vrai",
-          "is_correct": "false"
+          "content": "True",
+          "is_correct": "true"
         },
 
         {
-          "content": "Faux",
-          "is_correct": "true"
+          "content": "False",
+          "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Le Niveau 3 de maturité du BIM est utilisé massivement par les acteurs du BTP",
-      "explanation": "On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits entre les logiciels BIM, problèmes de serveurs (la blockchain pourra-t-elle régler le problème ? ), format IFC....",
+      "content": "CIM has nothing to do with smart cities ",
+      "explanation": "City Intelligence Modeling is in the heart of Smart cities, it is an extension of BIM applied to a neighboorhood or an entire city",
       "answers": [
         {
-          "content": "Vrai",
-          "is_correct": "true"
+          "content": "True",
+          "is_correct": "false"
         },
         {
-          "content": "Faux",
-          "is_correct": "false"
+          "content": "False",
+          "is_correct": "true"
         }
       ]
     }

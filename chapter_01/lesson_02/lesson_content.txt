@@ -1,80 +1,70 @@
-# ℹ️ Une Technologie de l'Information 
+# ℹ️ An Information Technology 
 
 
 
-## Le BIM est une technologie de l'information
+## BIM is an information technology
 
+BIM is an information and communication technology, why?
 
+It is a method of project and work management that will be structured around a digital model where we will find all the information of a project in its life cycle. BIM will make it possible to manage and store information, exchange, research, collaborate and specify information through this digital model.
 
-Le BIM est une technologie de l'information et de la communication, pourquoi ?
-
-C'est une méthode de gestion de projet et de travail qui va s'articuler autour d'un modèle numérique où l'on va retrouver toutes les informations d'un projet dans son cycle de vie. Le BIM va permettre de gérer et stocker des informations, échanger, rechercher, collaborer, préciser des informations à travers ce modèle numérique.
-
-Actuellement, les projets de construction auxquels les jeunes ingénieurs collaborent en début de carrière n’utilisent déjà plus de rot rings ou tables à dessin pour la création de plans. Les collaborateurs plus anciens évoquent parfois ces outils de conception avec nostalgie…. 
+Nowadays, construction projects in which young engineers collaborate at the start of their careers no longer use rot rings or drawing tables for the creation of plans. Older collaborators sometimes evoke these design tools with nostalgia….
 
 ![Rotring-architectes](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Rotring-architectes.jpeg)
 
-*Rotring original - très utile pour la conception d'esquisse et les mesures*
+*Original rotring - very useful for sketching design and measurements*
 
+Just as mail has replaced mail and fax, two-dimensional and occasionally three-dimensional Computer Aided Design (CAD) software is succeeding paper drawings. The last few years have seen a real revolution appear: the Building Information Modeling, or Digital Model and Mockup or BIM. According to the French Building Federation ( [www.ffbim.fr](http://www.ffbim.fr/) ), BIM is defined as “a database, completed and updated by each professional as the project progresses, from its programming to its deconstruction ”. It is an information modeling of the infrastructure, tracing the construction process, as well as the management and the representation of the project.
 
+BIM is part of a series of developments where we can distinguish: hand drawing, 2D computer-aided design (AutoCad), 3D computer-aided design (AutoCad, 3DSMax) and BIM:
 
-Tout comme le mail a remplacé le courrier et les fax, les logiciels de Conception Assistés par Ordinateur (CAO) en deux dimensions et occasionnellement en trois dimensions succèdent aux dessins papiers. Ces dernières années ont vu une véritable révolution apparaitre : le modèle d’Information du Bâtiment, ou encore Maquette Numérique, en anglais « Building information Modeling » ou BIM. Selon la Fédération Française du Bâtiment, ([www.ffbim.fr](http://www.ffbim.fr)), le BIM est défini comme « une base de données, complétée et mise à jour par chaque professionnel au fur et à mesure de l’avancement du projet, de sa programmation à sa déconstruction ». Il s’agit d’une modélisation de l’information de l’infrastructure, retraçant le processus de construction, aussi bien que la gestion et la représentation du projet.
+The world of Architecture, Building Engineering and Civil Engineering is finally experiencing its digital transformation.
 
-Le BIM s’insère dans une série d’évolutions où l’on peut distinguer: le dessin à la main, la conception assistée par ordinateur 2D (AutoCad), la conception assistée par ordinateur 3D (AutoCad, 3DSMax) et le BIM:
+- In the 80s, Computer Aided Drawing appeared.
+- In the 90s, CAD (Computer Aided Design) appeared
+- The years 2010 and 2020 see the advent of BIM.
 
-Le monde de l'Architecture, de l'Ingénierie du Bâtiment et du Génie civil vit enfin sa transformation digitale.
-
-- Dans les années 80 est apparue la DAO (Dessin Assisté par Ordinateur)
-
-- Dans les années 90 est apparue la CAO (Conception Assisté par Ordinateur)
-
-- Les années 2010 et 2020 voient l'avènement du BIM.
-
-C'est plus que du simple dessin et de la conception,  la donnée vient s'ajouter et compléter la représentation tridimensionnelle .
+It is more than simple drawing and design, the data is added and completed with the three-dimensional representation.
 
 ![De la DAO 2D au BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/De_la_DAO_2D_au_BIM.jpeg)
 
-*On passe progressivement de la DAO à la CAO 2D puis 3D pour arriver au BIM*
+*We gradually move from CAD to 2D CAD then 3D to arrive at BIM*
 
 <p>&nbsp;</p>
 
-## Comment dessine-t-on un projet ?
+## How do you draw a project?
 
-Toutes ces évolutions nous amènent à repenser l'acte de conception d'un projet, comment retranscrire des idées abstraites et les communiquer ?
+All these developments lead us to rethink the act of designing a project, how to transcribe abstract ideas and communicate them?
 
-<p>&nbsp;</p>
+ 
 
-### Dessin à la main et CAO 2D
+### Hand drawing and 2D CAD
 
----------------------------
+------
 
-
-
-Un architecte est traditionnellement imaginé comme une personne devant une table inclinée avec un crayon, une règle, un compas, une équerre... Le concepteur produit différents types de plans comme des coupes, des perspectives, des plans d'étages... L'architecte utilise du papier et des calques pour tester différentes versions de son projet. On retrouve toujours cette manière de travailler chez des architectes expérimentés ou dans des phases très en amont du projet pour montrer des esquisses au client.
+An architect is traditionally imagined as a person in front of a drawing board with a pencil, a ruler, a compass, a square ... The designer produces different types of plans such as sections, perspectives, floor plans ... Architect uses paper and layers to test different versions of his project. We always find today this way of working with experienced architects or in phases very upstream of the project to show sketches to the client.
 
 ![architecte traditionnel](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/architecte_traditionnel.gif)
 
-*L'architecte en plein travail*
+*The architect at work*
 
-Dans cette manière de travailler on projette des idées au moyen d'une géomètrie liée à notre support qui est un rendu 2D. La manière de réfléchir est la même mais l'avantage de la CAO vient dans l'industrialisation du process. On peut facilement copier et coller, reproduire à une plus grande échelle, imprimer, représenter des alternatives et les supprimer...
+In this way of working we project ideas by means of a geometry linked to our medium which is a 2D rendering. The way of thinking is the same but the advantage of CAD comes in the industrialization of the process. You can easily copy and paste, reproduce on a larger scale, print, represent alternatives and delete them ...
 
-![DAO et CAO 2D](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/DAO_et_CAO_2D.jpeg)
+![Hand-drawing_& _2D _CAD](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/Hand-drawing_& _2D _CAD.png)
 
+In 1963, an engineer from the Massachusetts Institute of Technology (MIT) by the name of **Ivan Sutherland** proposed **Sketchpad** software . It is one of the first software to have a graphical interface allowing computer-assisted drawing to be done. Then in 1977 came CAD software called **CADAM** , which was the first for professional use. Long before construction, aeronautics innovated in the design of prototypes through the progressive use of CAD. We then saw the emergence of software such as **AutoCAD** in 1982, and **Archicad** in 1984. The representation was thus carried out by means of lines and surfaces.
 
+The manual technique consisting in making sketches on paper (implicitly containing geometric shapes) is then transposed on the computer. it is the same way of drawing, except that it is possible to industrialize the process, modify or cancel an action without damaging the support as when drawing on paper.
 
-En 1963, un ingénieur du Massachusetts Institute of Technology (MIT) du nom d**'Ivan Sutherland** propose le logiciel **Sketchpad**. Il s'agit de l'un des premiers logiciels disposant d'une interface graphique permettant de faire du Dessin assisté par ordinateur. Viendra ensuite en 1977 un logiciel de DAO nommé **CADAM**, qui sera la premier à usage professionnel. Bien avant le bâtiment, l'aéronautique a innové dans la conception des prototypes par l'utilisation progressive de la DAO. On a pu voir alors apparaître des logiciels tels que **AutoCAD** en 1982, et **Archicad** en 1984. La représentation était ainsi réalisée au moyen de traits et de surfaces.
+If we were to summarize and compare these two techniques:
 
-La technique manuel consistant à réaliser des esquisses sur papiers (contenant implicitement des formes géométriques) se transpose alors sur l'ordinateur. il s'agit de la même manière de dessiner, à ceci près qu'il est possible d'industrialiser le processus, modifier ou annuler une action sans porter préjudice au support comme lorsque l'on dessine sur papier.
-
-Si l'on devait résumer et comparer ces deux techniques:
-
-| 💻 CAO 2D                                                     | ✍️ Dessin à la main                                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Conception rapide du plan                                    | Unique et difficilement duplicable                           |
-| Duplicable à l'infini et très rapidement                     | Tous changements implique des coûts conséquents et du temps peu efficient |
-| Modification aisée et facilité (on manipule des éléments lignes et points) | Prévoir gomme et crayons                                     |
-| On peut réutiliser le plan ou certaines de ses sections      | Non.....                                                     |
-| On peut créer et imaginer différentes versions               | Prévoir gomme, crayons et papiers                            |
+| 2D HIGH                                                      | ✍️ Hand drawing                                             |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| Quick plan design                                            | Unique and difficult to duplicate                          |
+| Infinitely duplicable and very quickly                       | All changes involve significant costs and inefficient time |
+| Easy and easy modification (we manipulate line and point elements) | Provide eraser and pencils                                 |
+| You can reuse the plan or some of its sections               | No.....                                                    |
+| We can create and imagine different versions                 | Provide eraser, pencils and papers                         |
 
 <p>&nbsp;</p>
 
@@ -82,33 +72,31 @@ Si l'on devait résumer et comparer ces deux techniques:
 
 
 
-### CAO 2D et CAO 3D
+### 2D CAD and 3D CAD
 
 --------------------------
 
 <p>&nbsp;</p>
 
-Grâce à la **3D, le projet devient beaucoup plus visualisable et proche de la réalité**. On comprend plus rapidement le projet et la communication est plus simple, même pour des non-initiés, les incompréhensions s'en retrouvent diminués.
+Thanks to **3D, the project becomes much more visualizable and closer to reality** . We understand the project more quickly and communication is simpler, even for the uninitiated, misunderstandings are reduced.
 
-On fait la distinction entre la DAO et la CAO. Par exemple en DAO une dalle peut-être modélisée par des lignes qui n'auront comme lien entre elles qu'un lien géométrique. En CAO, la dalle sera un objet avec des propriétés géométriques et d'autres propriétés.
+We distinguish between 2D CAD and 3D CAD. For example in 2D CAD a slab can be modeled by lines which will only have a geometric link as a link between them. In 3D CAD, the slab will be an object with geometric properties and other properties.
 
-![DAO 2D et CAO 3D](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/DAO_2D_et_CAO_3D.jpeg)
+![2D_CAD_&_3D_CAD](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/2D_CAD_&_3D_CAD.png)
 
+In CAD, we tried to model the process of drawing by hand, while we move with **CAD to a link between objects with specific characteristics** . We can start talking about parametric modeling where any change has instantaneous implications on other parameters (e.g. dimensions). And we can start to carry out analyzes of surfaces, volumes...
 
+To summarize:
 
-Dans la DAO, on a essayé de modéliser le processus de dessin à la main, alors que l'on passe avec la **CAO à une liaison entre objets avec des caractéristiques propres**. On peut commencer à parler de modélisation paramétrique où n'importe quel changement à des implications instantanées sur d'autres paramètres (par exemple les dimensions). Et on peut commencer à réaliser des analyses de surfaces, volumes....
-
-Pour résumer:
-
-| 💻 CAO 2D                                                     | 🧊 CAO 3D                                                     |
+| 💻 2D CAD                                                     | **🧊 3D CAD**                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Les objets sont constitués d’éléments géométriques (ensembles de lignes, avec point de départ et point d’arrivée, pour représenter des objets architecturaux tels que les portes, les fenêtres, les murs et les balcons) | Eléments géométriques auxquels la 3ème dimension a été rajoutée |
-| Plusieurs dessins indépendants (plans, coupes, élévations et axonométries). | Cela dépend du logiciel                                      |
-| Modification aisée et facilité (on manipule des éléments lignes et points) | ✅                                                            |
-| On peut réutiliser le plan ou certaines de ses sections      | Cela dépend du logiciel                                      |
-| On peut créer et imaginer différentes versions               | ✅                                                            |
+| Objects are made up of geometric elements (sets of lines, with starting point and ending point, to represent architectural objects such as doors, windows, walls and balconies). | Geometric elements to which the 3rd dimension has been added. |
+| Several independent drawings (plans, sections, elevations and axonometries). | It depends on the software                                   |
+| Easy and easy modification (we manipulate line and point elements). | ✅                                                            |
+| You can reuse the plan or some of its sections.              | It depends on the software                                   |
+| We can create and imagine different versions.                | ✅                                                            |
 
-
+ 
 
 <p>&nbsp;</p>
 
@@ -120,71 +108,63 @@ Pour résumer:
 
 
 
-Les prémices du BIM apparaissent en 1963 lorsque Sutherland propose le logiciel Sketchpad, précurseur de l’interface graphique et de la DAO.
-
-<img src="https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Sutherland.jpeg" alt="Sutherland" style="
+The beginnings of BIM appeared in 1963 when Sutherland created Sketchpad software, a precursor of the graphical interface and CAD.<img src="https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Sutherland.jpeg" alt="Sutherland" style="
     width: 50%;
 ">
 
 *Ivan Sutherland*
 
-Sketchpad (alias Robot Draftsman) est un programme informatique écrit par Ivan Sutherland en 1963 dans le cadre de sa thèse de doctorat au MIT ; thèse pour laquelle il a reçu un Turing Award en 1988 et le prix de Kyoto en 2012. Sketchpad est considéré comme le précurseur des logiciels de conception assistée par ordinateur (CAO) et a ouvert la voie aux interfaces homme-machine (IHM)1.
+Sketchpad (aka Robot Draftsman) is a computer program written by Ivan Sutherland in 1963 as part of his doctoral thesis at MIT; thesis for which he received a Turing Award in 1988 and the Kyoto Prize in 2012. Sketchpad is considered the forerunner of computer-aided design (CAD) software and pioneered human-machine interfaces (HMI) 1.
 
+In 1992 van Nederveen & Tolman used the term **"Building Information Model"** for the first time in a scientific article. This article announces that technological advances now allow computers to assist architects in their design plans. It nevertheless highlights the fact that there are still many restrictions but invites designers to seize this technology to achieve complex designs. We are starting to talk about a "building model" which can be integrated into the DAO in technical design offices working on different disciplines.
 
+BIM defines itself more than a Computer Aided Design tool but as a colleague to whom we will entrust automated tasks.
 
-En 1992 van Nederveen & Tolman utilisent pour la première fois le terme **"Building Information Model"** dans un article scientifique. Cet article annonce que les avancées technologiques permettent maintenant aux ordinateurs d'assister les architectes dans leurs plans de conception. Il met quand meme en lumière le fait qu'il exisxte encore beaucoup de restrictions mais invite les dessinateurs a s'emparer de cette technologie pour aboutir à des conceptions complexes. On commence à parler de "building model" qui pourront être intégrés à la DAO dans des bureaux d'études techniques travaillant sur des lots différents.
+in 1984, **Archicad7**, developed by Graphisoft, was for many the **1st BIM software** . In 2000, **Revit** 8 (from "Revise it")  was released , bought in 2002 by Autodesk, which wrote the same year a white paper: Building Information Modeling. Like computer programming which whose languages evolve from variables to object-oriented programming, CAD now makes it possible to manipulate objects with own or shared parameters.
 
-Le BIM se voient plus qu'un outil de Conception Assistée par Ordinateur mais comme un collègue à qui l'on va confier des tâches automatisables.
-
-en 1984, **Archicad7** développé par Graphisoft est pour beaucoup le **1er logiciel BIM**. En 2000 sort **Revit** 8, racheté en 2002 par Autodesk qui sort la même année un livre blanc: Building Information Modeling. Comme la programmation informatique qui passe dont les langages passent de variables à de la programmation orientée objet, la CAO permet maintenant de manipuler des objets au paramètres propres ou partagés.
-
-![CAO 3D et BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/CAO_3D_et_BIM.jpeg)
+![3D_CAD_&_BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/3D_CAD_&_BIM.png)
 
 Avec la CAO 3D, il n'y a aucun rapport sémantique avec la construction. Le BIM reprend la logique de conception d'un bâtiment avec ses différents composants (dont on va d'ailleurs commencer la conception de la même manière que le processus réel)
 
 Pour résumer:
 
-| 🧊 CAO 3D                                                     | 💻  🏗️  BIM                                                    |
+| 🧊 3D CAD                                                     | 💻  🏗️  BIM                                                    |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
-| Aucun entre les plans 2D et la 3D;                           | La modélisation est paramétrique                             |
-| La production de livrables (plan, coupes, élévations...) n'est pas une finalité en CAO | Les livrables sont connectés en permanence à la maquette numérique et on peut en extraire à l'infinie: (plan, coupes, élévations...) |
-| Le système géométrique est indépendant de la manière de construire | Chacun des objets BIM a des propriétés spécifiques et informations que l'on peut enrichir (matériaux, coût, conductivité thermique, maintenance, etc); |
+| No link between 2D and 3D plans.                             | The modeling is parametric.                                  |
+| The production of deliverables (plan, sections, elevations ...) is not an objective in 3D CAD. | The deliverables are permanently connected to the digital model and can be extracted anytime: (plan, sections, elevations, etc.). |
+| The geometric system is independent of the way of constructing. | Each of the BIM objects has specific properties and information that can be enriched (materials, cost, thermal conductivity, maintenance, etc.). |
+
+ <p>&nbsp;</p>
+
+It is a major digital and even intellectual transformation. We are talking about an intelligent model. In addition to the realistic geometry of each of the objects, we have information about their components and their connections to others.
 
 <p>&nbsp;</p>
 
-C'est une transformation digitale et même intellectuelle majeure. On parle de maquette intelligente. En plus de la géométrie réaliste de chacun des objets, nous avons des informations sur leurs composants et sur leurs connexions aux autres.
+### The design tool becomes a decision support tool
+
+------
+
+ 
+
+Since the emergence of computer-aided drawing and 3D CAD, it has been a real disruption in the world of construction and architecture. Let's take the example of the intellectual journey in the design of a facade detail plan.
+
+Manual drawing and 2D CAD start from the same principles. We started with a representation of the mind on a two-dimensional support: the sheet. We can distinguish 3 types of elements: the point, the line and the surface. This support has improved with the contribution of digital technology and its power of industrialization (copy, paste, edit, delete) with 2D CAD.
+
+![facade_hand-drawingt_2D_CAD](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/facade_hand-drawingt_2D_CAD.png)
+
+We then move on to a geometry that is no longer flat but in volume, which allows us to better represent the objects in our mind.
+
+![Facade_2D_CAD_3D_CAD](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/Facade_2D_CAD_3D_CAD.png)
+
+With BIM, objects become intelligent with final idea of the elements constituting a model of the construction. The parallelepiped can be a column, a wall, a slab, a partition. In addition to its length, width, height, it has its own characteristics: manufacturer references, brand, color, thermal capacity, etc... It can also have several constituent objects: partition, insulation, coating, metal upright...
 
 
 
 <p>&nbsp;</p>
 
-### L'outil de conception devient outil d'aide à la décision
+![facade_3D_CAD_BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/facade_3D_CAD_BIM.png)We are entering a new paradigm with BIM. The design becomes object-oriented and will allow us to more faithfully reproduce the vision of architects and engineers.
 
---------------------------
-
-<p>&nbsp;</p>
-
-Depuis l'émergence du dessin assisté par Ordinateur et de la CAO, c'est une véritable disruption dans le monde de la construction et de l'architecture. Prenons l'exemple du cheminement intellectuel dans la conception d'un plan de détail de façade. 
-
-Le dessin manuel et la DAO 2D partent des mêmes principes. On est parti d'une représentation de l'esprit sur un support en deux dimensions: la feuille. On peut y distinguer 3 types d'éléments: le point, la ligne et la surface. . Ce support s'est amélioré avec l'apport du numérique et de son pouvoir d'industrialisation (copier, coller, éditer, supprimer) avec la DAO ou CAO 2D.
-
-![facade 2D dessin et DAO](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/facade_2D_dessin_et_DAO.jpeg)
-
-On passe en suite à une géométrie qui n'est plus plane mais en volume, qui nous permet de mieux nous représenter les objets dans notre esprit.
-
-![facade DAO et CAO 3D](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/facade_DAO_et_CAO_3D.jpeg)
-
-
-
-Avec le BIM, les objets deviennent intelligents avec une idée de final d'éléments constituant un modèle de la construction. Le parallélépipède peut être un poteau, un mur, une dalle, une cloison. Outre sa longueur, largeur, hauteur, il a des caractéristiques propres: références fabricants, marque, couleur, capacité thermique....). Il peut aussi avoir plusieurs objets constitutifs: cloison, isolant, enduit, montant métallique...
-
-![facade CAO 3D et BIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/facade_CAO_3D_et_BIM.jpeg)
-
-<p>&nbsp;</p>
-
-Nous entrons dans un nouveau paradigme avec le BIM. La conception devient orientée objet et va nous permettre de retranscrire plus fidèlement la vision des architectes et des ingénieurs. 
-
-***Revoyez ci-contre la vidéo historique de présentation du logicel Sketchpad en 1963. ➡️***
+***See opposite the historical video presentation of the Sketchpad software in 1963. ➡️***
 
 <p>&nbsp;</p>
 
