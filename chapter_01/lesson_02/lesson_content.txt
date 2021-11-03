@@ -50,7 +50,7 @@ An architect is traditionally imagined as a person in front of a drawing board w
 
 In this way of working we project ideas by means of a geometry linked to our medium which is a 2D rendering. The way of thinking is the same but the advantage of CAD comes in the industrialization of the process. You can easily copy and paste, reproduce on a larger scale, print, represent alternatives and delete them ...
 
-![Hand-drawing_& _2D _CAD](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/Hand-drawing_& _2D _CAD.png)
+![Hand-drawing_& _2D _CAD](https://raw.githubusercontent.com/bc-ars/plateform-images/main/English_BIM_Fundamentals/Hand-drawing_&_2D _CAD.png)
 
 In 1963, an engineer from the Massachusetts Institute of Technology (MIT) by the name of **Ivan Sutherland** proposed **Sketchpad** software . It is one of the first software to have a graphical interface allowing computer-assisted drawing to be done. Then in 1977 came CAD software called **CADAM** , which was the first for professional use. Long before construction, aeronautics innovated in the design of prototypes through the progressive use of CAD. We then saw the emergence of software such as **AutoCAD** in 1982, and **Archicad** in 1984. The representation was thus carried out by means of lines and surfaces.
 
